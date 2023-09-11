@@ -45,7 +45,7 @@ requirements.txt packages
 
 ## How to Use this Project ?
 
-![Project Ui](src/assets/images/1.png)
+![Project Ui](src/assets/images/1.PNG)
 
 above picture is our application main window
 
